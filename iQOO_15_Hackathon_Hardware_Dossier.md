@@ -1,4 +1,4 @@
-# iQOO 15 --- Hackathon Hardware & AI Capability Dossier
+﻿# iQOO 15 --- Hackathon Hardware & AI Capability Dossier
 
 **Purpose:** A practical technical reference for designing an iQOO
 Hackathon 2026 project around the actual capabilities of the iQOO 15.
@@ -2247,3 +2247,4 @@ planning\
 **Research status:** Based on publicly available iQOO/Qualcomm
 documentation and iQOO Hackathon 2026 material available at the time of
 preparation.
+
